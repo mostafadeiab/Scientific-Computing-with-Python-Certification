@@ -8,3 +8,5 @@ This comprehensive course will guide you through the fundamentals of scientific 
 
 # Link
 https://www.freecodecamp.org/learn/scientific-computing-with-python/
+
+<embed src="freecodecamp.org_certification_mostafadeiab_scientific-computing-with-python-v7.pdf" type="application/pdf" width="600" height="400">
